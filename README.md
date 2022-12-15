@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="" target="blank">
+<h1 align="center">Hi 👋, I'm <a>
 Tara Gurung</a></h1>
 <h3 align="center">DevOps Engineer at CloudHero  ☁️</h3>
 

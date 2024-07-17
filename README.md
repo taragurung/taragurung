@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a>
 Tara Gurung</a></h1>
-<h3 align="center">DevOps Engineer at CloudHero  ☁️</h3>
+<h3 align="center">DevOps Engineer | SRE Practitioner  ☁️</h3>
 
 <h1> 👨‍🎓 Certifications </h1>
 
